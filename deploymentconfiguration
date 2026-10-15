@@ -1,0 +1,24 @@
+# Deployment Configuration
+
+## Deployment Type
+Local deployment using Microsoft Excel or Google Sheets.
+
+## Configuration Steps
+1. Clone or download the GitHub repository.
+2. Download the Excel workbook.
+3. Open the workbook using Microsoft Excel.
+4. Navigate to the Formula Practice worksheet.
+5. Modify the yellow input cells to test the formulas.
+6. Review the Formula Notes worksheet for explanations.
+
+## Hosting
+No server or cloud deployment is required.
+
+## Dependencies
+No external libraries or software packages are required.
+
+## Output
+An interactive Excel workbook that demonstrates common Excel formulas using the Sample Superstore dataset.
+
+## Compatibility
+Microsoft Excel is recommended for formula compatibility. Some functions may not work in older spreadsheet versions.

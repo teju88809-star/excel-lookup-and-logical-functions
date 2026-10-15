@@ -1,0 +1,29 @@
+# Requirements
+
+## Software Requirements
+- Microsoft Excel 2019 or later (Microsoft 365 recommended)
+- Google Sheets (optional)
+- A web browser to access the GitHub repository
+
+## Dataset Requirements
+- Sample Superstore Dataset in CSV or Excel format
+
+## Skills Required
+- Basic knowledge of Microsoft Excel
+- Understanding of spreadsheet rows and columns
+- Basic knowledge of formulas and functions
+
+## Excel Functions
+- SUM and AVERAGE
+- SUMIF and SUMIFS
+- COUNTIF
+- XLOOKUP
+- INDEX/MATCH
+- IF and nested IF
+- IFERROR
+- LEFT, RIGHT, and CONCAT
+
+## Files Required
+- Excel formula practice workbook (.xlsx)
+- README.md
+- Sample Superstore dataset (if redistribution is permitted)
